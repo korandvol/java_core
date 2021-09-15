@@ -1,0 +1,1 @@
+This repository consists of java core examples.
