@@ -6,3 +6,9 @@ This repository consists of java core examples:
 - solid principles
 - interfaces
 - ENUM, read console, input
+- collection framework
+- list
+- iterator, collection sorting
+- set, queue
+- map
+- java 8 practice
